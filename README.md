@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Pitro Minto e sou um desenvolvedor Front End, atualmente estou focando em aprender cada vez masi sobre JavaScript e React, fazendo projetos para ir melhorando cada vez mais, se quiser dar uma olhada nos meus projetos fique a vontade 😊
+Eu sou o Pietro Minto e sou um desenvolvedor Front End, atualmente estou focando em aprender cada vez masi sobre JavaScript e React, fazendo projetos para ir melhorando cada vez mais, se quiser dar uma olhada nos meus projetos fique a vontade 😊
 <br>
 <br>
 Atualmente estou me aperfeiçoando em JavaScript e aprendendo um pouco sobre React
